@@ -53,10 +53,12 @@
 ## 🛠️ Tecnologias
 
 ```txt
-Linguagens:   C • C# • JavaScript • GDScript
-Backend:      Node.js (em evolução)
-Frontend:     HTML • CSS • JS
-Game Dev:     Unity • Godot
+Linguagens:   C • C# • JavaScript • GDScript  
+Base:         C++ • Java  
+
+Game Dev:     Unity • Godot  
+Backend:      Node.js (em evolução)  
+Frontend:     HTML • CSS • JS  
 Ferramentas:  Git • VSCode • Code::Blocks
 ```
 
