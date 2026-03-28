@@ -1,4 +1,4 @@
-<h1 align="center">Fala, eu sou o Jota 👋</h1>
+<h1 align="center">Opa, eu sou o Jota! 👋</h1>
 
 <p align="center">
   Estudante de Engenharia da Computação • Game Developer • Fullstack Explorer
