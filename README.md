@@ -1,10 +1,10 @@
-<div align="center">
+<div>
   <h1>Opa, eu sou o Jota! 👋</h1>
   <p>
     <b>Estudante de Engenharia da Computação • Game Developer • Fullstack Explorer</b>
   </p>
   
-  <p align="center">
+  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotaaltda&theme=tokyonight&hide_border=true" height="170"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jotaaltda&theme=tokyonight" height="170"/>
   </p>
