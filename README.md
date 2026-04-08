@@ -3,11 +3,6 @@
   <p>
     <b>Estudante de Engenharia da Computação • Game Developer • Fullstack Explorer</b>
   </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jotaaltda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaaltda&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
-  </p>
   
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotaaltda&theme=tokyonight&hide_border=true" height="170"/>
