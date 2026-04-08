@@ -48,7 +48,7 @@
 
 ## 🚀 Projeto em Destaque: **No Ticket to Ride**
 
-<div align="center">
+<div>
   <a href="https://snake-nest.itch.io/no-ticket-to-ride">
     <img src="https://img.shields.io/badge/Jogue%20no%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
   </a>
@@ -66,7 +66,7 @@
 ---
 
 ## 📫 Contato
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/joão-paulo-de-abreu-4484b439b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
