@@ -5,8 +5,8 @@
   </p>
   
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotaaltda&theme=tokyonight&hide_border=true" height="170"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jotaaltda&theme=tokyonight" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jotaaltda&show_icons=true&bg_color=00000000&hide_border=true&title_color=C46215&icon_color=C46215&text_color=888780" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaaltda&layout=donut&bg_color=00000000&hide_border=true&title_color=C46215&text_color=888780" />
   </p>
 </div>
 
