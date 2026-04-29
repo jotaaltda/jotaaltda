@@ -5,10 +5,7 @@
   </p>
   
 <p>
-  <!-- Card de Estatísticas Gerais (Incluindo repositórios privados e todos os commits) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jotaaltda&show_icons=true&bg_color=00000000&hide_border=true&title_color=C46215&icon_color=C46215&text_color=888780&count_private=true&include_all_commits=true" />
-
-  <!-- Card de Linguagens (Layout Donut com estatísticas reais) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jotaaltda&show_icons=true&bg_color=00000000&hide_border=true&title_color=C46215&icon_color=C46215&text_color=888780&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaaltda&layout=donut&bg_color=00000000&hide_border=true&title_color=C46215&text_color=888780&count_private=true" />
 </p>
 </div>
